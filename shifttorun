@@ -1,3 +1,5 @@
+--By YoshiBoshiGG
+--Yoshi_Boshi™#0001
 
 local mouse = game.Players.LocalPlayer:GetMouse()
 local running = false
